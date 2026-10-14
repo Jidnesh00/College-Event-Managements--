@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix 6 CampusPulse - College Event Management System",
+  "description": "Full-stack College Event Management System with role-based access for Students, Organizers, and Admins, relational SQL database, and complete event lifecycle workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
